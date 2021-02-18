@@ -1,0 +1,7 @@
+Dependencies:
+ -  Express: Framework used to develope the API
+ -  CORS: Used to solve cross origin resource sharing problems
+
+How to start: 
+    npm install
+    npm start 
